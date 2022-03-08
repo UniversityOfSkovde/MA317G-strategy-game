@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 20ddcc93e66c425f9a4077dcb0d118b3, type: 3}
+  m_Name: Default Piece Config
+  m_EditorClassIdentifier: 
+  _emptyPrefab: {fileID: 9171404175518676303, guid: 9f59bbe1b1e75074a97f18317c799564, type: 3}
+  _obstaclePrefab: {fileID: 1450064968783161621, guid: c7837691369cd6b48bef1d207eac8023, type: 3}
+  _trapPrefab: {fileID: 5821949999425878412, guid: 32f92f0e5b70e4f49b542678a0159c0f, type: 3}
+  _terrainPrefab: {fileID: 8623364642093061399, guid: f3abb67435f68c64195e2cdd9c0a94f9, type: 3}
+  _portalPrefab: {fileID: 2862877056048887637, guid: c33b8ce6b0d599040bca9f48a23e4efb, type: 3}
+  _checkPointPrefab: {fileID: 5022935849558199124, guid: 13c264ae858d95b43a55408319d2e084, type: 3}
+  _agentPrefab: {fileID: 5662904446677398041, guid: fcd2c0aae618f804eb27e684558d10a8, type: 3}

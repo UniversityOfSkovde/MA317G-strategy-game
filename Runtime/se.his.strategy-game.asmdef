@@ -1,3 +1,16 @@
 {
-    "name": "se.his.strategy-game"
+    "name": "se.his.strategy-game",
+    "rootNamespace": "",
+    "references": [
+        "GUID:53d6c791f5b2c29478d8a22d3e4fc7b8"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
 }

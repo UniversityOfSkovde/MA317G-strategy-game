@@ -4,7 +4,9 @@
     "displayName": "Strategy Game",
     "description": "Custom Unity Package.",
     "unity": "2021.2",
-    "dependencies": {},
+    "dependencies": {
+        "se.his.procedural-grid": "https://github.com/UniversityOfSkovde/Procedural-Grid.git"
+    },
     "keywords": ["dsu", "skövde"],
     "author": {
         "name": "Emil Forslund",
