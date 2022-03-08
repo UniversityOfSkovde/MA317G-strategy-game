@@ -2,7 +2,7 @@
   "name": "se.his.strategy-game",
   "version": "1.0.0",
   "displayName": "Strategy Game",
-  "description": "Custom Unity Package.",
+  "description": "Generate a 2D grid with common tiles for a basic strategy game",
   "unity": "2021.2",
   "keywords": [
     "dsu",
@@ -11,5 +11,12 @@
   "author": {
     "name": "Emil Forslund",
     "email": "emil.forslund@his.se"
-  }
+  },
+  "samples": [
+    {
+      "displayName": "Demo",
+      "description": "Creates a basic 5x5 board",
+      "path": "Samples~/Demo"
+    }
+  ]
 }
