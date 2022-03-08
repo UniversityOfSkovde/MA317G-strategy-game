@@ -108,8 +108,8 @@ public class Demo : MonoBehaviour {
         
         foreach (var edge in edges) {
             _vectors.Draw(
-                new Vector3(edge.l0.x - .5f, 0, edge.l1.y - .5f),
-                new Vector3(edge.l0.x - .5f, 0, edge.l1.y - .5f),
+                new Vector3(portal.From.x, 0, portal.From.y),
+                new Vector3(portal.To.x, 0, portal.To.y),
                 color, 0.1f
             );
         }
