@@ -1,15 +1,15 @@
 {
-    "name": "se.his.strategy-game",
-    "version": "1.0.0",
-    "displayName": "Strategy Game",
-    "description": "Custom Unity Package.",
-    "unity": "2021.2",
-    "dependencies": {
-        "se.his.procedural-grid": "1.1.1"
-    },
-    "keywords": ["dsu", "skövde"],
-    "author": {
-        "name": "Emil Forslund",
-        "email": "emil.forslund@his.se"
-    }
+  "name": "se.his.strategy-game",
+  "version": "1.0.0",
+  "displayName": "Strategy Game",
+  "description": "Custom Unity Package.",
+  "unity": "2021.2",
+  "keywords": [
+    "dsu",
+    "sk\u00f6vde"
+  ],
+  "author": {
+    "name": "Emil Forslund",
+    "email": "emil.forslund@his.se"
+  }
 }

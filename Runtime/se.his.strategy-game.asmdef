@@ -1,9 +1,7 @@
 {
     "name": "se.his.strategy-game",
     "rootNamespace": "",
-    "references": [
-        "GUID:53d6c791f5b2c29478d8a22d3e4fc7b8"
-    ],
+    "references": [],
     "includePlatforms": [],
     "excludePlatforms": [],
     "allowUnsafeCode": false,
