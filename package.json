@@ -5,7 +5,7 @@
     "description": "Custom Unity Package.",
     "unity": "2021.2",
     "dependencies": {
-        "se.his.procedural-grid": "https://github.com/UniversityOfSkovde/Procedural-Grid.git#1.1.1"
+        "se.his.procedural-grid": "1.1.1"
     },
     "keywords": ["dsu", "skövde"],
     "author": {
